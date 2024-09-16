@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. My name is Ella and I am interested in cyber security and data management 👋
 
 <!--
 **ellanku/ellanku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
